@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: rgb(245, 243, 231);
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 1em;
+    padding-top: 1em;
+    margin: 0em;
+    background-color: rgb(0, 151, 117);
+    top: 0;
+}
+
+nav ul {
+    margin-top: 0em;
+    padding: 1em 0em;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #004C46;
+}
+
+a {
+    color: #ffcd17;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a.projects {
+    color: rgb(0, 151, 117);
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size:1.5em;
+}
+
+div {
+    margin: 1em;
+}
